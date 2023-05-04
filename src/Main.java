@@ -5,5 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Main m=new Main();
       System.out.println(m.x);
+      int x=10;
+      System.out.println(x);
     }
 }
